@@ -10,7 +10,7 @@ This Prison Management System is developed in C++ as a semester project for the 
 - **Instructor:** Mohsin Javaid Butt  
 - **Semester:** Spring 2025  
 - **Deadline:** 18 May 2025  
-- **Group Members:** Muhammad Imran Riaz, Farrukh Mubeen
+- **Group Members:** Farrukh Mubeen,Muhammad Imran Riaz
 
 ## ✅ Features
 
@@ -47,9 +47,9 @@ This Prison Management System is developed in C++ as a semester project for the 
 2. Open the project in any C++ IDE (e.g., Code::Blocks, Visual Studio, or Dev C++).
 3. Compile and run the project.
 4. Login using:
-   - Username: `imran`, Password: `071`
-   - OR Username: `farrukh`, Password: `033`
-
+   - Username: `farrukh`, Password: `033`
+   - OR Username: `imran`, Password: `123`
+   
 ## 📄 Project Report
 
 The detailed project report is included in the repository as `Prison_Management_Project_Report.docx`.
