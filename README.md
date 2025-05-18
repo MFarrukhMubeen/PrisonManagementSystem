@@ -10,7 +10,7 @@ This Prison Management System is developed in C++ as a semester project for the 
 - **Instructor:** Mohsin Javaid Butt  
 - **Semester:** Spring 2025  
 - **Deadline:** 18 May 2025  
-- **Group Members:** Farrukh Mubeen,Muhammad Imran Riaz
+- **Group Members:** M Farrukh Mubeen,Muhammad Imran Riaz
 
 ## ✅ Features
 
