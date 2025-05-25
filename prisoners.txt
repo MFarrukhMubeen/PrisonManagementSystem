@@ -1,0 +1,9 @@
+Prisoner 1
+ID: 85
+Name: ahad
+Gender: male
+Marital Status: unmarried
+Age: 18
+Crime: murder
+Sentence: 15 years
+Visitors: abdullah,ahmed,
